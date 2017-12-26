@@ -19,3 +19,5 @@
 1. [MarkerAR_Mac_1.0](https://github.com/GeekLiB/MarkerAR_Mac_1.0)
 
 2. [文章](http://blog.csdn.net/aichipmunk/article/details/41489825)
+
+# Power By Mars.AR
